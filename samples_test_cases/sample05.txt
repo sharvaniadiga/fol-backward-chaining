@@ -1,0 +1,6 @@
+Isastudent(Kevin) && Istaking(s,Ai) && Homeworkfor(h,Ai) && Doesnthate(s,h)
+4
+Istaking(s,Ai)
+Homeworkfor(Hw,Ai)
+Isastudent(Kevin)
+Doesnthate(s,h)

@@ -1,0 +1,36 @@
+'''
+Created on Mar 1, 2016
+
+@author: sharvani
+'''
+NULL_STRING = ""
+NONE = None
+
+INPUT_FILE_QUERY_LINE_NUM = 0
+INPUT_FILE_NUM_OF_CLAUSES_IN_KB = 1
+INPUT_FILE_KB_START_LINE_NUM = 2
+
+NOT = "~"
+AND = " && "
+IMPLIES = " => "
+
+ASK = "Ask"
+TRUE = "True"
+FALSE = "False"
+
+PREDICATE_CONSTANT_REGEX = "[A-Z]([a-zA-Z])*"
+VARIABLE_REGEX = "^[a-z][0-9]*$"
+
+OPEN_BRACKET = "("
+CLOSE_BRACKET = ")"
+
+VARIABLE_REPLACEMENT = "_"
+
+COMMA = ", "
+
+OUTPUT_TXT = "output.txt"
+
+STANDARDIZE_VARIABLE_COUNT_FIRST_VALUE = 1
+
+FAILURE = "failure"
+ALL_EXECTUTIONS_DONE = "done"
